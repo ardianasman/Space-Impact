@@ -1,0 +1,52 @@
+﻿  Main.cpp
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Button.h(24,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Button.h(33,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Button.h(42,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Button.h(52,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Button.h(63,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(135,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(148,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(150,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(184,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(197,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(199,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(238,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(251,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(253,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(322,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(355,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(360,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(370,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(372,41): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(373,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(402,33): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(405,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(408,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(409,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(412,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(400,13): warning C4101: 'r': unreferenced local variable
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(422,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(425,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(446,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(447,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(483,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(484,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(494,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(496,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(496,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(503,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(505,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(505,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(512,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(514,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(514,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(517,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(567,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(567,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(575,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(575,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(608,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(612,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(616,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\SPACE IMPACT FIX FIX\Main.cpp(620,1): warning C4305: '=': truncation from 'double' to 'float'
+  SPACE IMPACT FIX FIX.vcxproj -> C:\Users\ardia\OneDrive\SEMESTER 2\PBO\PROJECT\SPACE IMPACT FIX FIX\Debug\SPACE IMPACT FIX FIX.exe
